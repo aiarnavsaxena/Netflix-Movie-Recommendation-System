@@ -21,4 +21,3 @@ The system uses **cosine similarity** on movie metadata (overview, cast, crew, g
 
 ---
 
-## 📂 Project Structure  
